@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {howdy:}
+  {howdy: => "partner"}
 end
 
 def pioneer
